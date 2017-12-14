@@ -1,28 +1,46 @@
 # TP BONUS : THE GAME
 
-## README
+## Table of Contents
+
+ [README](#read)
+ 
+ [AUTHORS](#aut)
+ 
+ [MAILS](#mail)
+ 
+ [COPYRIGHTS](#cop)
+ 
+ [SUMMARY](#sum)
+ 
+ [RULES OF SUBMISSION](#rules)
+ 
+ [TETRIS](#tetris)
+ 
+ [2048](#2048)
+
+## README <a name="read"></a>
 
 Write two small C console games.
 
-## AUTHORS
+## AUTHORS <a name="aut"></a>
 
 * SidoShiro
 * Felix Léon
 
-## Mails
+## Mails <a name="mail"></a>
 
-Use: [ASM][BONUS]
+Use: \[ASM\]\[BONUS\]
 
-marc.sidorenko@epita.fr
-felix.leon@epita.fr
+* marc.sidorenko@epita.fr
+* felix.leon@epita.fr
 
-## COPYRIGHT
+## COPYRIGHT <a name="cop"></a>
 
 This subject is our own creation and is not associated with any other
 intellectual content. This subject is public and free to use. Therefore it is
 not allowed to sell this intellectual content.
 
-# Summary
+# Summary <a name="sum"></a>
 
 Hello!
 
@@ -33,7 +51,7 @@ You have to make a game, choosing one of these (or doing both of them):
   * Tetris-like game
   * 2048-like game
 
-# Rules of submission
+# Rules of submission <a name="rules"></a>
 
 You need to follow this architecture of submission, in our school git.
 
@@ -85,7 +103,7 @@ clean:
 
 # The Two Games
 
-## Tetris
+## Tetris <a name="tetris"></a>
 
 Make a console mode tetris game. The game should take place in a 20x10 array of
 blocks. Border should be printed by a special ascii symbol of your choice.
@@ -140,6 +158,6 @@ S:
 * Add more pieces
 * Colors
 
-## 2048
+## 2048 <a name="2048"></a>
 
 

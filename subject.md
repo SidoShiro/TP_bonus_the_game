@@ -48,6 +48,12 @@ You can use these headers:
 
 You need to follow this architecture of submission, in our school git.
 
+AUTHORS file should be correct like:
+
+```bash
+* login
+```
+
 ```
 game_bonus/
 |

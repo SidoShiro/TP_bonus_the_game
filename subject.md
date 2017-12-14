@@ -1,14 +1,6 @@
 # TP BONUS : THE GAME
 
 ## Table of Contents
-
- [README](#read)
- 
- [AUTHORS](#aut)
- 
- [MAILS](#mail)
- 
- [COPYRIGHTS](#cop)
  
  [SUMMARY](#sum)
  

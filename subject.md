@@ -10,10 +10,6 @@
  
  [2048](#2048)
 
-## README <a name="read"></a>
-
-Write two small C console games.
-
 ## AUTHORS <a name="aut"></a>
 
 * SidoShiro
@@ -42,6 +38,11 @@ written in English as a little training before your fantastic trip.
 You have to make a game, choosing one of these (or doing both of them):
   * Tetris-like game
   * 2048-like game
+  
+You can use these headers:
+* stdlib.h
+* stdio.h
+* readline/readline.h
 
 # Rules of submission <a name="rules"></a>
 

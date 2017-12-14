@@ -107,7 +107,7 @@ clean:
 Make a console mode tetris game. The game should take place in a 20x10 array of
 blocks. Border should be printed by a special ascii symbol of your choice.
 
-> Fill carefully your README: explain how to *make*, *execute* and *play* the game.
+> Fill carefully your README: explain how to **make**, **execute** and **play** the game.
 
 **Core Features**
 

@@ -159,4 +159,12 @@ S:
 
 ## 2048 <a name="2048"></a>
 
+### Goal
+Implement a console version of the 2048 game in C
 
+### Specifications
+The game should be playable using keyboard arrow keys and/or WASD
+The board should be displayed in a pretty style
+
+### Notes
+If this takes you more than 2 hours, you are doing something wrong

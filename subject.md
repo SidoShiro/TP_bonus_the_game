@@ -35,16 +35,23 @@ Hello!
 Soon it's holidays, and for most of you the exchange semester. This subject is
 written in English as a little training before your fantastic trip.
 
+2048 is the **easy one**
+
 You have to make a game, choosing one of these (or doing both of them):
   * Tetris-like game
   * 2048-like game
-  
-You can use these headers:
-* stdlib.h
-* stdio.h
-* readline/readline.h
 
 # Rules of submission <a name="rules"></a>
+
+## README
+
+Precise the headers & library used, **dependencies**
+
+Your Makefile should work, with the dependencies you have written in the **README**.
+
+Your **README** should explain **EVERYTHING**, max 200 lines.
+
+## Architecture
 
 You need to follow this architecture of submission, in our school git.
 
@@ -77,6 +84,8 @@ game_bonus/
            |
            |_______*.h  // Meaning all your .h files
 ```
+
+## Makefile
 
 Here a **begining** of a Makefile in order to have a good start.
 

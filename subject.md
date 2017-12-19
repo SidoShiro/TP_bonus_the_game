@@ -164,6 +164,7 @@ Implement a console version of the 2048 game in C
 
 ### Specifications
 The game should be playable using keyboard arrow keys and/or WASD
+
 The board should be displayed in a pretty style
 
 ### Notes

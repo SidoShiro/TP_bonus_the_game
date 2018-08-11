@@ -1,5 +1,7 @@
 # TP BONUS : THE GAME
 
+Create a simple C with SDL library or just a text-based game.
+
 ## Table of Contents
  
  [SUMMARY](#sum)

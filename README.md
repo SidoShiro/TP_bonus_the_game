@@ -1,4 +1,4 @@
-# TP BONUS : THE GAME
+# TP BONUS : THE ASCI/SDL GAME
 
 Create a simple C with SDL library or just a text-based game.
 
@@ -179,4 +179,4 @@ The game should be playable using keyboard arrow keys and/or WASD
 The board should be displayed in a pretty style
 
 ### Notes
-If this takes you more than 2 hours, you are doing something wrong
+If this takes you more than 2 hours, you are doing something wrong.

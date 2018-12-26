@@ -26,9 +26,7 @@ Use: \[ASM\]\[BONUS\]
 
 ## COPYRIGHT <a name="cop"></a>
 
-This subject is our own creation and is not associated with any other
-intellectual content. This subject is public and free to use. Therefore it is
-not allowed to sell this intellectual content.
+Check the license document of this repository.
 
 # Summary <a name="sum"></a>
 
